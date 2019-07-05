@@ -1,2 +1,15 @@
 # VSCode-Vim-Cheat-Sheet
-Atajos de teclado para la extension de Vim en Visual Studio Code
+
+## Move
+
+<kbd>h</kbd> : Left
+
+<kbd>j</kbd> : Down
+
+<kbd>k</kbd> : Up
+
+<kbd>l</kbd> : Right
+
+<kbd>H</kbd> : Top Screen
+
+<kbd>L</kbd> : Bottom Screen
