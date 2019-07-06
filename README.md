@@ -1,15 +1,15 @@
-# VSCode-Vim-Cheat-Sheet
+# Vim Cheat-Sheet for Visual Studio Code
 
-## Move
+## Content
+1. [Motion](#motion)
 
-<kbd>h</kbd> : Left
+### Motion
 
-<kbd>j</kbd> : Down
-
-<kbd>k</kbd> : Up
-
-<kbd>l</kbd> : Right
-
-<kbd>H</kbd> : Top Screen
-
-<kbd>L</kbd> : Bottom Screen
+| Key | Description |
+|:--:|:--|
+| <kbd>h</kbd> | Left |
+| <kbd>j</kbd> | Down |
+| <kbd>k</kbd> | Up |
+| <kbd>l</kbd> | Right |
+| <kbd>H</kbd> | Top Screen |
+| <kbd>L</kbd> | Botton Screen |
