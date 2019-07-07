@@ -3,6 +3,7 @@
 ## Content
 1. [Motion](#basic-motion)
 2. [Screen Motion](#screen-motion)
+3. [Word Motion](#word-motion)
 
 ### Basic Motion
 
@@ -19,3 +20,10 @@
 | <kbd>H</kbd> | Top Screen |
 | <kbd>M</kbd> | Middle Screen | 
 | <kbd>L</kbd> | Botton Screen |
+
+### Word Motion
+| Key | Description |
+|:--:|:--|
+| <kbd>w</kbd> , <kbd>W</kbd> | Jumps to the first letter of the following word. |
+| <kbd>e</kbd> , <kbd>E</kbd> | Jumps to the last letter of the following word.|
+| <kbd>b</kbd> , <kbd>B</kbd> | Jumps to the first letter of the previous word. |
