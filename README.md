@@ -4,6 +4,7 @@
 1. [Motion](#basic-motion)
 2. [Screen Motion](#screen-motion)
 3. [Word Motion](#word-motion)
+4. [Sentence Motion](#sentence-motion)
 
 ### Basic Motion
 
@@ -27,3 +28,9 @@
 | <kbd>w</kbd> , <kbd>W</kbd> | Jumps to the first letter of the following word. |
 | <kbd>e</kbd> , <kbd>E</kbd> | Jumps to the last letter of the following word.|
 | <kbd>b</kbd> , <kbd>B</kbd> | Jumps to the first letter of the previous word. |
+
+### Sentence Motion
+| Key | Description |
+|:--:|:--|
+| <kbd>(</kbd> | Jumps to the begin of the sentense. | 
+| <kbd>)</kbd> | Jumps to the end of the sentence.|
