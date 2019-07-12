@@ -6,6 +6,7 @@
 3. [Word Motion](#word-motion)
 4. [Line Motion](#line-motion)
 5. [Sentence Motion](#sentence-motion)
+6. [Document Motion](#document-motion)
 
 ### Basic Motion
 
@@ -41,3 +42,10 @@
 |:--:|:--|
 | <kbd>(</kbd> | Jump to the begin of the sentense. | 
 | <kbd>)</kbd> | Jump to the end of the sentence.|
+
+### Document Motion
+| Key | Description |
+|:--:|:--|                         
+| <kbd>gg</kbd> | Go to the first line of the document. |
+| <kbd>G</kbd> | Go to the last line of the document. |
+| <kbd>5G</kbd> | Go to line 5. |
