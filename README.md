@@ -7,6 +7,7 @@
 4. [Line Motion](#line-motion)
 5. [Sentence Motion](#sentence-motion)
 6. [Document Motion](#document-motion)
+7. [Search and Replace](#search-and-replace)
 
 ### Basic Motion
 
@@ -46,6 +47,11 @@
 ### Document Motion
 | Key | Description |
 |:--:|:--|                         
-| <kbd>gg</kbd> | Go to the first line of the document. |
-| <kbd>G</kbd> | Go to the last line of the document. |
-| <kbd>5G</kbd> | Go to line 5. |
+| <kbd>g</kbd>+<kbd>g</kbd>  | Go to the first line of the document. |
+| <kbd>G</kbd> | Go to the last line of the document. 
+| <kbd>5</kbd>+<kbd>G</kbd>  | Go to line 5. |
+
+### Search and Replace
+| Command | Description |
+|:--:|:--|
+|:1,$s/search_string/replace_string/g| Search a string in the entrire file and replace it.
