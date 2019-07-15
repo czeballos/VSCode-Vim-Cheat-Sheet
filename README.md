@@ -7,7 +7,8 @@
 4. [Line Motion](#line-motion)
 5. [Sentence Motion](#sentence-motion)
 6. [Document Motion](#document-motion)
-7. [Search and Replace](#search-and-replace)
+7. [Text Selection](#text-selection)
+8. [Search and Replace](#search-and-replace)
 
 ### Basic Motion
 
@@ -51,7 +52,15 @@
 | <kbd>G</kbd> | Go to the last line of the document. 
 | <kbd>5</kbd>+<kbd>G</kbd>  | Go to line 5. |
 
+### Text Selection
+| Key | Description |
+|:--:|:--|
+| <kbd>V</kbd> | Selects entire lines. |
+| <kbd>v</kbd> | Selects range of text. |
+| <kbd>Ctrl</kbd>+<kbd>v</kbd> | Selects colums. |
+
+
 ### Search and Replace
 | Command | Description |
 |:--:|:--|
-|:1,$s/search_string/replace_string/g| Search a string in the entrire file and replace it.
+|:%s/search_string/replace_string/g| Search a string in the entrire file and replace it.
